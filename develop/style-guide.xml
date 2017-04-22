@@ -343,6 +343,7 @@ redirect_from:
     <SUMMARY>
       Don't use "yoda-conditions".
       Use at most one assignment per condition.
+	  Ternary operator Condition ? B : C is allowed.
     </SUMMARY>
     <BODY>
       <BAD_CODE_SNIPPET>
