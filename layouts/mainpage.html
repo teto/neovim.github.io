@@ -1,5 +1,5 @@
 {{ define "main" }}
-<section class="front-section">
+<section class="front-section{{ with .Params.class }} {{ . }}{{ end }}">
     <div class="container golden-grid">
         <div class="col-wide">
             <h1>{{ .Title }}</h1>

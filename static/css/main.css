@@ -333,6 +333,13 @@ samp {
   background-color: var(--accent-bg-color);
 }
 
+.screenshots img,
+.screenshots video {
+  max-width: 640px;
+  width: 100%;
+  height: auto;
+}
+
 /*
  * FAQs
  *

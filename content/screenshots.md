@@ -1,6 +1,7 @@
 ---
 title: Screenshots
 layout: mainpage
+class: screenshots
 ---
 
 These screenshots demo what's possible. They may use unreleased features,
